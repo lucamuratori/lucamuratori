@@ -1,0 +1,4 @@
+- 👋 Hello, my name is  Luca Muratori, an aspiring software developer based in Modena
+- 👀 I’m interested in computers wether it's hardware or software
+- 🌱 I’m currently learning Python and its libraries
+- 📫 Feel free to contact me on LinkedIn: www.linkedin.com/in/luca-muratori-6b4332253
